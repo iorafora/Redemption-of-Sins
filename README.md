@@ -8,7 +8,9 @@
 
 Oyunun derlenmiş, optimize edilmiş ve oynanabilir son sürümünü (.exe) aşağıdaki bağlantıdan güvenli bir şekilde indirebilirsiniz:
 
-👉 **[Redemption of Sins - Oyunu İndir (OneDrive)](👉 <a href="https://drive.google.com/drive/folders/1tRMC6H5rZ4ijPejy8Or9-HO-0yM4l_Vr?usp=sharing"><b>Redemption of Sins - Oyunu İndir (Google Drive) ↗️</b></a> <i>(Yeni sekmede açmak için Ctrl'e basılı tutarak tıklayabilirsiniz)</i>
+👉 **[Redemption of Sins - Oyunu İndir (OneDrive)](## Dosyalar
+
+📁 [Google Drive Klasörü](https://drive.google.com/drive/folders/1tRMC6H5rZ4ijPejy8Or9-HO-0yM4l_Vr?usp=sharing)
 
 > 💡 **Not:** İndirdiğiniz `.zip` dosyasını sağ tıklayıp bir klasöre çıkardıktan sonra, klasör içerisindeki `.exe` dosyasına çift tıklayarak oyunu başlatabilirsiniz.
 
