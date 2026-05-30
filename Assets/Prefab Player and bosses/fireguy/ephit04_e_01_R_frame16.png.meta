@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: c043ddbad1995d249bb6f9c9d9daee18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1575669913948872997
+    second: ephit04_e_01_R_frame16_0
+  - first:
+      213: 1276306590513405024
+    second: ephit04_e_01_R_frame16_1
+  - first:
+      213: 8854429620779214691
+    second: ephit04_e_01_R_frame16_2
+  - first:
+      213: -3379845334724439730
+    second: ephit04_e_01_R_frame16_3
+  - first:
+      213: 2959078951491697669
+    second: ephit04_e_01_R_frame16_4
+  - first:
+      213: -3842913582135407528
+    second: ephit04_e_01_R_frame16_5
+  - first:
+      213: -348512240856901630
+    second: ephit04_e_01_R_frame16_6
+  - first:
+      213: -6745465673247808567
+    second: ephit04_e_01_R_frame16_7
+  - first:
+      213: 6277597812805488701
+    second: ephit04_e_01_R_frame16_8
+  - first:
+      213: 3880342820241048948
+    second: ephit04_e_01_R_frame16_9
+  - first:
+      213: 5202341869571160339
+    second: ephit04_e_01_R_frame16_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 332
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde9ecfbf88122ae0800000000000000
+      internalID: -1575669913948872997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 336
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9a08f41a56b110800000000000000
+      internalID: 1276306590513405024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 343
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ed3bc3d041ea70800000000000000
+      internalID: 8854429620779214691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 316
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e411df343906811d0800000000000000
+      internalID: -3379845334724439730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 306
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7ff5e0a2c01920800000000000000
+      internalID: 2959078951491697669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 302
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c8b4a257a3baac0800000000000000
+      internalID: -3842913582135407528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 281
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20859d3a6f5d92bf0800000000000000
+      internalID: -348512240856901630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 271
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3297d85ba4362a0800000000000000
+      internalID: -6745465673247808567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 297
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d305a0b53f18e1750800000000000000
+      internalID: 6277597812805488701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 271
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475843f6c3fb9d530800000000000000
+      internalID: 3880342820241048948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ephit04_e_01_R_frame16_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 258
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3193eeffd5e623840800000000000000
+      internalID: 5202341869571160339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ephit04_e_01_R_frame16_0: -1575669913948872997
+      ephit04_e_01_R_frame16_1: 1276306590513405024
+      ephit04_e_01_R_frame16_10: 5202341869571160339
+      ephit04_e_01_R_frame16_2: 8854429620779214691
+      ephit04_e_01_R_frame16_3: -3379845334724439730
+      ephit04_e_01_R_frame16_4: 2959078951491697669
+      ephit04_e_01_R_frame16_5: -3842913582135407528
+      ephit04_e_01_R_frame16_6: -348512240856901630
+      ephit04_e_01_R_frame16_7: -6745465673247808567
+      ephit04_e_01_R_frame16_8: 6277597812805488701
+      ephit04_e_01_R_frame16_9: 3880342820241048948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

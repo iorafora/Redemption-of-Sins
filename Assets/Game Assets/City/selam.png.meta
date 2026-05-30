@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 3cb48f19ed042a640889a3bef71b05cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5237087539032992094
+    second: selam_0
+  - first:
+      213: 92089647588122184
+    second: selam_1
+  - first:
+      213: 8550645604904849836
+    second: selam_2
+  - first:
+      213: 700903323283342956
+    second: selam_3
+  - first:
+      213: -6940515576974254509
+    second: selam_4
+  - first:
+      213: 6949979384310426014
+    second: selam_5
+  - first:
+      213: 2987251002129559065
+    second: selam_6
+  - first:
+      213: 349530549633034065
+    second: selam_7
+  - first:
+      213: -5380857307768201671
+    second: selam_8
+  - first:
+      213: -2628379365376450273
+    second: selam_9
+  - first:
+      213: -1070810769967819652
+    second: selam_10
+  - first:
+      213: -7448825159862905919
+    second: selam_11
+  - first:
+      213: 6792842279054155843
+    second: selam_12
+  - first:
+      213: 8123672809208079439
+    second: selam_13
+  - first:
+      213: -4315573037974108539
+    second: selam_14
+  - first:
+      213: 3566723194984349542
+    second: selam_15
+  - first:
+      213: 563325631431372955
+    second: selam_16
+  - first:
+      213: -2186415930389224109
+    second: selam_17
+  - first:
+      213: -602705478455904507
+    second: selam_18
+  - first:
+      213: -852464320916269088
+    second: selam_19
+  - first:
+      213: 5719032895811031457
+    second: selam_20
+  - first:
+      213: 6099749486946562560
+    second: selam_21
+  - first:
+      213: -7999447020730064015
+    second: selam_22
+  - first:
+      213: 6302474350631129517
+    second: selam_23
+  - first:
+      213: 2353485923238189763
+    second: selam_24
+  - first:
+      213: 2651701253559214078
+    second: selam_25
+  - first:
+      213: 6371171538622316289
+    second: selam_26
+  - first:
+      213: -3486270506689968834
+    second: selam_27
+  - first:
+      213: 1803535995636388023
+    second: selam_28
+  - first:
+      213: 2221960776351200696
+    second: selam_29
+  - first:
+      213: 7775309872109361536
+    second: selam_30
+  - first:
+      213: 1086598751154033407
+    second: selam_31
+  - first:
+      213: 7587332836282428610
+    second: selam_32
+  - first:
+      213: 6476821917541649356
+    second: selam_33
+  - first:
+      213: 8092139682031757658
+    second: selam_34
+  - first:
+      213: -5272734744031689947
+    second: selam_35
+  - first:
+      213: 4514617449549258334
+    second: selam_36
+  - first:
+      213: -6310413453009704938
+    second: selam_37
+  - first:
+      213: 5850738106887181770
+    second: selam_38
+  - first:
+      213: -4352461113117577075
+    second: selam_39
+  - first:
+      213: -601503820448450581
+    second: selam_40
+  - first:
+      213: 4742041286799834696
+    second: selam_41
+  - first:
+      213: -5480540334523113782
+    second: selam_42
+  - first:
+      213: -1206871928237898597
+    second: selam_43
+  - first:
+      213: 6161294952899711776
+    second: selam_44
+  - first:
+      213: 7990146246235736993
+    second: selam_45
+  - first:
+      213: 4050660353581246593
+    second: selam_46
+  - first:
+      213: 6647660765044455975
+    second: selam_47
+  - first:
+      213: 6959605787174963086
+    second: selam_48
+  - first:
+      213: 7341172820516040008
+    second: selam_49
+  - first:
+      213: -4766753976692683258
+    second: selam_50
+  - first:
+      213: 3886393457044858696
+    second: selam_51
+  - first:
+      213: 8558027286039589237
+    second: selam_52
+  - first:
+      213: -4181449598471425130
+    second: selam_53
+  - first:
+      213: 2930449687566196642
+    second: selam_54
+  - first:
+      213: 4369731396326896687
+    second: selam_55
+  - first:
+      213: 322598811514354017
+    second: selam_56
+  - first:
+      213: 4951818787299464386
+    second: selam_57
+  - first:
+      213: -3179676026170309969
+    second: selam_58
+  - first:
+      213: -9057350121333509263
+    second: selam_59
+  - first:
+      213: 7704742750669963779
+    second: selam_60
+  - first:
+      213: 7987248877221933905
+    second: selam_61
+  - first:
+      213: -3719572115189501447
+    second: selam_62
+  - first:
+      213: 3490295528760404260
+    second: selam_63
+  - first:
+      213: -5145306566020164387
+    second: selam_64
+  - first:
+      213: -689941432535786273
+    second: selam_65
+  - first:
+      213: -210532162423909771
+    second: selam_66
+  - first:
+      213: -2742209651677656807
+    second: selam_67
+  - first:
+      213: -7269783009030984250
+    second: selam_68
+  - first:
+      213: -7854212340425147862
+    second: selam_69
+  - first:
+      213: -4511425062245660635
+    second: selam_70
+  - first:
+      213: -3934099420680255841
+    second: selam_71
+  - first:
+      213: 7089836443865507898
+    second: selam_72
+  - first:
+      213: 6617112351388659694
+    second: selam_73
+  - first:
+      213: -4839562086968111720
+    second: selam_74
+  - first:
+      213: -6639297753075662686
+    second: selam_75
+  - first:
+      213: 541843426975978736
+    second: selam_76
+  - first:
+      213: -5478099123040603497
+    second: selam_77
+  - first:
+      213: -1410159238229053386
+    second: selam_78
+  - first:
+      213: -8309554029530741692
+    second: selam_79
+  - first:
+      213: -8013165512983227488
+    second: selam_80
+  - first:
+      213: -9056417002741269507
+    second: selam_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selam_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 850
+        width: 716
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6505a61a02257b0800000000000000
+      internalID: -5237087539032992094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_1
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 830
+        width: 376
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e1bfbeb0b274100800000000000000
+      internalID: 92089647588122184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 847
+        width: 335
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1db98dfdef9a670800000000000000
+      internalID: 8550645604904849836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 721
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c136ebdb1ab900800000000000000
+      internalID: 700903323283342956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 728
+        width: 173
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e526cead55eaf90800000000000000
+      internalID: -6940515576974254509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 741
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e996c1e6d69437060800000000000000
+      internalID: 6949979384310426014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 730
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eacd495f8d47920800000000000000
+      internalID: 2987251002129559065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 740
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1572609de28c9d400800000000000000
+      internalID: 349530549633034065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 744
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e596f99ca5355b0800000000000000
+      internalID: -5380857307768201671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 749
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1125c794ee168bd0800000000000000
+      internalID: -2628379365376450273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 706
+        width: 163
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d7623747b321f0800000000000000
+      internalID: -1070810769967819652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_11
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 708
+        width: 112
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c311609bf470a890800000000000000
+      internalID: -7448825159862905919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_12
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 712
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34027421016054e50800000000000000
+      internalID: 6792842279054155843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_13
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 703
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e85001651db070800000000000000
+      internalID: 8123672809208079439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_14
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 710
+        width: 113
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586cc45df210c14c0800000000000000
+      internalID: -4315573037974108539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 609
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f303939db8f7130800000000000000
+      internalID: 3566723194984349542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 617
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90f65a5da551d700800000000000000
+      internalID: 563325631431372955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 620
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35525e1ab4a48a1e0800000000000000
+      internalID: -2186415930389224109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 624
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50734748f82c2a7f0800000000000000
+      internalID: -602705478455904507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 586
+        width: 98
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7571877307b24f0800000000000000
+      internalID: -852464320916269088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 621
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a117953e161e5f40800000000000000
+      internalID: 5719032895811031457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 623
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002325c27d9a6a450800000000000000
+      internalID: 6099749486946562560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_22
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 618
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173e3d941514cf090800000000000000
+      internalID: -7999447020730064015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_23
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 602
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1116ba703e67750800000000000000
+      internalID: 6302474350631129517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_24
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 604
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca9e765af249a020800000000000000
+      internalID: 2353485923238189763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 580
+        width: 136
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effdad4ad3cbcc420800000000000000
+      internalID: 2651701253559214078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 408
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 10, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbc884e73b42e950800000000000000
+      internalID: 6476821917541649356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 478
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a596854ba2e0d4070800000000000000
+      internalID: 8092139682031757658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 435
+        width: 168
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 11, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed921a6a427ae30800000000000000
+      internalID: 4514617449549258334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_41
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 404
+        width: 119
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb0f90d6d1fc140800000000000000
+      internalID: 4742041286799834696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_42
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 388
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace9c875a9531f3b0800000000000000
+      internalID: -5480540334523113782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_43
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 456
+        width: 180
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944df32064504fe0800000000000000
+      internalID: -1206871928237898597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_44
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 457
+        width: 133
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0239eff9d11518550800000000000000
+      internalID: 6161294952899711776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 389
+        width: 153
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 10, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab4d466da3b2ee60800000000000000
+      internalID: 7990146246235736993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 415
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188e7f85126d63830800000000000000
+      internalID: 4050660353581246593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 416
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 6, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ab6c7be3c314c50800000000000000
+      internalID: 6647660765044455975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_48
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 416
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e870151079c759060800000000000000
+      internalID: 6959605787174963086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_49
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 414
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6c99f8c511e560800000000000000
+      internalID: 7341172820516040008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_50
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 416
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e4d87738619ddb0800000000000000
+      internalID: -4766753976692683258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_51
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 194
+        width: 218
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847af88124e3fe530800000000000000
+      internalID: 3886393457044858696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_54
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 264
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af9983f67c0ba820800000000000000
+      internalID: 2930449687566196642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_55
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 260
+        width: 55
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24bfe99d8764ac30800000000000000
+      internalID: 4369731396326896687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_56
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 272
+        width: 64
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169b64de8e91a7400800000000000000
+      internalID: 322598811514354017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_60
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 260
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020373d5bebcea60800000000000000
+      internalID: 7704742750669963779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_61
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 188
+        width: 240
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153737b198868de60800000000000000
+      internalID: 7987248877221933905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 233
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f17ead4edc616cc0800000000000000
+      internalID: -3719572115189501447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 256
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429e5e08a45007030800000000000000
+      internalID: 3490295528760404260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd412ef60f23898b0800000000000000
+      internalID: -5145306566020164387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc51ed2ce5dc66f0800000000000000
+      internalID: -689941432535786273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_66
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 194
+        width: 92
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5729dec1d1a041df0800000000000000
+      internalID: -210532162423909771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_67
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 264
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9190b14c9d6b1f9d0800000000000000
+      internalID: -2742209651677656807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 262
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda988ceda8c1b90800000000000000
+      internalID: -7269783009030984250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 94
+        width: 72
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96884fab654769c0800000000000000
+      internalID: -3934099420680255841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_72
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3
+        width: 271
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38e830aea8246260800000000000000
+      internalID: 7089836443865507898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 663
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefee57ef94b4db50800000000000000
+      internalID: 6617112351388659694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_74
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 104
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d41d94ceb66dcb0800000000000000
+      internalID: -4839562086968111720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_75
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2
+        width: 100
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a040edbed97cd3a0800000000000000
+      internalID: -6639297753075662686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_76
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 4
+        width: 100
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f498ccd9b3058700800000000000000
+      internalID: 541843426975978736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_77
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 11
+        width: 387
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79239ce2fd1e9f3b0800000000000000
+      internalID: -5478099123040603497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_78
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 48
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6303f98e4ab1e6ce0800000000000000
+      internalID: -1410159238229053386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_79
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 46
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44487e3d2a88eac80800000000000000
+      internalID: -8309554029530741692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_80
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a35938eb648bc090800000000000000
+      internalID: -8013165512983227488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selam_81
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 104
+        width: 199
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb7ccd08b4215280800000000000000
+      internalID: -9056417002741269507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b860b6c94e758ac47aba707a2be8eb95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      selam_0: -5237087539032992094
+      selam_1: 92089647588122184
+      selam_10: -1070810769967819652
+      selam_11: -7448825159862905919
+      selam_12: 6792842279054155843
+      selam_13: 8123672809208079439
+      selam_14: -4315573037974108539
+      selam_15: 3566723194984349542
+      selam_16: 563325631431372955
+      selam_17: -2186415930389224109
+      selam_18: -602705478455904507
+      selam_19: -852464320916269088
+      selam_2: 8550645604904849836
+      selam_20: 5719032895811031457
+      selam_21: 6099749486946562560
+      selam_22: -7999447020730064015
+      selam_23: 6302474350631129517
+      selam_24: 2353485923238189763
+      selam_25: 2651701253559214078
+      selam_26: 6371171538622316289
+      selam_27: -3486270506689968834
+      selam_28: 1803535995636388023
+      selam_29: 2221960776351200696
+      selam_3: 700903323283342956
+      selam_30: 7775309872109361536
+      selam_31: 1086598751154033407
+      selam_32: 7587332836282428610
+      selam_33: 6476821917541649356
+      selam_34: 8092139682031757658
+      selam_35: -5272734744031689947
+      selam_36: 4514617449549258334
+      selam_37: -6310413453009704938
+      selam_38: 5850738106887181770
+      selam_39: -4352461113117577075
+      selam_4: -6940515576974254509
+      selam_40: -601503820448450581
+      selam_41: 4742041286799834696
+      selam_42: -5480540334523113782
+      selam_43: -1206871928237898597
+      selam_44: 6161294952899711776
+      selam_45: 7990146246235736993
+      selam_46: 4050660353581246593
+      selam_47: 6647660765044455975
+      selam_48: 6959605787174963086
+      selam_49: 7341172820516040008
+      selam_5: 6949979384310426014
+      selam_50: -4766753976692683258
+      selam_51: 3886393457044858696
+      selam_52: 8558027286039589237
+      selam_53: -4181449598471425130
+      selam_54: 2930449687566196642
+      selam_55: 4369731396326896687
+      selam_56: 322598811514354017
+      selam_57: 4951818787299464386
+      selam_58: -3179676026170309969
+      selam_59: -9057350121333509263
+      selam_6: 2987251002129559065
+      selam_60: 7704742750669963779
+      selam_61: 7987248877221933905
+      selam_62: -3719572115189501447
+      selam_63: 3490295528760404260
+      selam_64: -5145306566020164387
+      selam_65: -689941432535786273
+      selam_66: -210532162423909771
+      selam_67: -2742209651677656807
+      selam_68: -7269783009030984250
+      selam_69: -7854212340425147862
+      selam_7: 349530549633034065
+      selam_70: -4511425062245660635
+      selam_71: -3934099420680255841
+      selam_72: 7089836443865507898
+      selam_73: 6617112351388659694
+      selam_74: -4839562086968111720
+      selam_75: -6639297753075662686
+      selam_76: 541843426975978736
+      selam_77: -5478099123040603497
+      selam_78: -1410159238229053386
+      selam_79: -8309554029530741692
+      selam_8: -5380857307768201671
+      selam_80: -8013165512983227488
+      selam_81: -9056417002741269507
+      selam_9: -2628379365376450273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

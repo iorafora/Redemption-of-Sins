@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 18d035a36c0d57541852cd26acac8b0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1876236423560548568
+    second: assetonkatman_0
+  - first:
+      213: -7136884095709784385
+    second: assetonkatman_1
+  - first:
+      213: -1700318217763676189
+    second: assetonkatman_2
+  - first:
+      213: 734008249818790368
+    second: assetonkatman_3
+  - first:
+      213: -7600425362818278152
+    second: assetonkatman_4
+  - first:
+      213: -5765223708318946099
+    second: assetonkatman_5
+  - first:
+      213: -4322819565717928723
+    second: assetonkatman_6
+  - first:
+      213: -2951828351269724943
+    second: assetonkatman_7
+  - first:
+      213: 2436363038774868112
+    second: assetonkatman_8
+  - first:
+      213: -834889974296783360
+    second: assetonkatman_9
+  - first:
+      213: 4756062024906064631
+    second: assetonkatman_10
+  - first:
+      213: -4596490842907107315
+    second: assetonkatman_11
+  - first:
+      213: -8982955233706615608
+    second: assetonkatman_12
+  - first:
+      213: 6028310359206898472
+    second: assetonkatman_13
+  - first:
+      213: 1197436752655789658
+    second: assetonkatman_14
+  - first:
+      213: -1635601774027405542
+    second: assetonkatman_15
+  - first:
+      213: 8880127497448682393
+    second: assetonkatman_16
+  - first:
+      213: -3167479736479970778
+    second: assetonkatman_17
+  - first:
+      213: -6687790805766032976
+    second: assetonkatman_18
+  - first:
+      213: 2478938512764183676
+    second: assetonkatman_19
+  - first:
+      213: -6434239967698021346
+    second: assetonkatman_20
+  - first:
+      213: 463530222834422540
+    second: assetonkatman_21
+  - first:
+      213: 2403985896332092913
+    second: assetonkatman_22
+  - first:
+      213: 6929818331988310663
+    second: assetonkatman_23
+  - first:
+      213: 1008555792185723833
+    second: assetonkatman_24
+  - first:
+      213: -5631112768101208030
+    second: assetonkatman_25
+  - first:
+      213: 706083825252453966
+    second: assetonkatman_26
+  - first:
+      213: -268802853624129615
+    second: assetonkatman_27
+  - first:
+      213: 840704634598525351
+    second: assetonkatman_28
+  - first:
+      213: 1106151837260270416
+    second: assetonkatman_29
+  - first:
+      213: -8051619994688249862
+    second: assetonkatman_30
+  - first:
+      213: 3098349509958137286
+    second: assetonkatman_31
+  - first:
+      213: 6937126422320957965
+    second: assetonkatman_32
+  - first:
+      213: 2023982215722221456
+    second: assetonkatman_33
+  - first:
+      213: 3025701940299537639
+    second: assetonkatman_34
+  - first:
+      213: 4263848556264867277
+    second: assetonkatman_35
+  - first:
+      213: 599672480105619034
+    second: assetonkatman_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assetonkatman_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 566
+        width: 376
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a0dd136f9da04d0800000000000000
+      internalID: -3167479736479970778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_18
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 632
+        width: 422
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1313212b13033a0800000000000000
+      internalID: -6687790805766032976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 633
+        width: 303
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7428518175f66220800000000000000
+      internalID: 2478938512764183676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 586
+        width: 347
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e141db5e6dcf4b6a0800000000000000
+      internalID: -6434239967698021346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_21
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 632
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0314b2284ace6600800000000000000
+      internalID: 463530222834422540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_22
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 572
+        width: 273
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f56ce39f6cac5120800000000000000
+      internalID: 2403985896332092913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 385
+        width: 153
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a3724ae09ab2060800000000000000
+      internalID: 6929818331988310663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 416
+        width: 232
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8461462c1ffd00800000000000000
+      internalID: 1008555792185723833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_25
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 255
+        width: 218
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203927b5c44ad1b0800000000000000
+      internalID: -5631112768101208030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_26
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 288
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e42d18f738cc900800000000000000
+      internalID: 706083825252453966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 270
+        width: 200
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b75f139a35054cf0800000000000000
+      internalID: -268802853624129615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_28
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 366
+        width: 273
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a905423968caab00800000000000000
+      internalID: 840704634598525351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_29
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 252
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b4b8f3c37d95f00800000000000000
+      internalID: 1106151837260270416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_30
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 388
+        width: 222
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff9c2e2646e24090800000000000000
+      internalID: -8051619994688249862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_31
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 412
+        width: 203
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57f0ba67c8ffa20800000000000000
+      internalID: 3098349509958137286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 1515
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aca640abf954060800000000000000
+      internalID: 6937126422320957965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 257
+        width: 202
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb4d70a11a61c10800000000000000
+      internalID: 2023982215722221456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 272
+        width: 196
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec93c342e37df920800000000000000
+      internalID: 3025701940299537639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_35
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 250
+        width: 145
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ca3ccbab3c2b30800000000000000
+      internalID: 4263848556264867277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetonkatman_36
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 266
+        width: 182
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ed54681f6725800800000000000000
+      internalID: 599672480105619034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b92211fd14fba447ac4c6d826d7dfcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      assetonkatman_0: -1876236423560548568
+      assetonkatman_1: -7136884095709784385
+      assetonkatman_10: 4756062024906064631
+      assetonkatman_11: -4596490842907107315
+      assetonkatman_12: -8982955233706615608
+      assetonkatman_13: 6028310359206898472
+      assetonkatman_14: 1197436752655789658
+      assetonkatman_15: -1635601774027405542
+      assetonkatman_16: 8880127497448682393
+      assetonkatman_17: -3167479736479970778
+      assetonkatman_18: -6687790805766032976
+      assetonkatman_19: 2478938512764183676
+      assetonkatman_2: -1700318217763676189
+      assetonkatman_20: -6434239967698021346
+      assetonkatman_21: 463530222834422540
+      assetonkatman_22: 2403985896332092913
+      assetonkatman_23: 6929818331988310663
+      assetonkatman_24: 1008555792185723833
+      assetonkatman_25: -5631112768101208030
+      assetonkatman_26: 706083825252453966
+      assetonkatman_27: -268802853624129615
+      assetonkatman_28: 840704634598525351
+      assetonkatman_29: 1106151837260270416
+      assetonkatman_3: 734008249818790368
+      assetonkatman_30: -8051619994688249862
+      assetonkatman_31: 3098349509958137286
+      assetonkatman_32: 6937126422320957965
+      assetonkatman_33: 2023982215722221456
+      assetonkatman_34: 3025701940299537639
+      assetonkatman_35: 4263848556264867277
+      assetonkatman_36: 599672480105619034
+      assetonkatman_4: -7600425362818278152
+      assetonkatman_5: -5765223708318946099
+      assetonkatman_6: -4322819565717928723
+      assetonkatman_7: -2951828351269724943
+      assetonkatman_8: 2436363038774868112
+      assetonkatman_9: -834889974296783360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

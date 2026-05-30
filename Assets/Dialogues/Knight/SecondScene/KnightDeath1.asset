@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: KnightDeath1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "Anlat\u0131c\u0131"
+  dialogueText: "*Muhaf\u0131z, kendi karn\u0131n\u0131 de\u015Fti ve elleriyle karn\u0131n\u0131
+    a\xE7t\u0131.*\n\"Aa-ahh!!\""
+  choice1Text: 
+  choice1NextNode: {fileID: 0}
+  choice2Text: 
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 11400000, guid: 51ccef35e3649da4ea8e35919dfac040, type: 2}

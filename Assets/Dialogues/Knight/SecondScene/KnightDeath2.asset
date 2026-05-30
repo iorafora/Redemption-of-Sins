@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: KnightDeath2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "Anlat\u0131c\u0131"
+  dialogueText: "*Muhaf\u0131z, delirmi\u015F bir \u015Fekilde ba\u011F\u0131rd\u0131.
+    B\u0131\xE7a\u011F\u0131n\u0131 b\u0131rak\u0131p de\u015Filmi\u015F karn\u0131n\u0131
+    elleriyle a\xE7maya ba\u015Flad\u0131.*\n\n\"Aa-hhh!!\"\n\"H-... Hisset-miyorum!\"\n\"Tanr\u0131m!\""
+  choice1Text: 
+  choice1NextNode: {fileID: 0}
+  choice2Text: 
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 11400000, guid: 8bb3a9675917faf43b54b1a67d3d32bd, type: 2}

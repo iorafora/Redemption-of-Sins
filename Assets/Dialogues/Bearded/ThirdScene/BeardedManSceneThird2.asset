@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: BeardedManSceneThird2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "K\xF6yl\xFC"
+  dialogueText: "\"Da\u011Flara gitmeyi d\xFC\u015F\xFCn\xFCyoruz. Oras\u0131 g\xFCvenli
+    olmal\u0131...\""
+  choice1Text: "Yolunuz a\xE7\u0131k olsun karde\u015Fim."
+  choice1NextNode: {fileID: 0}
+  choice2Text: "Umar\u0131m g\xFCvenli bir yer bulabilirsiniz."
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 0}

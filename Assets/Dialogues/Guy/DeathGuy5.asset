@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: DeathGuy5
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "Anlat\u0131c\u0131"
+  dialogueText: "Ne yaz\u0131k ki adam c\xFCmlesini tamamlayacak kadar uzun hayata
+    tutunamad\u0131. K\u0131sa bir s\xFCre sonra g\xF6zlerini yumdu."
+  choice1Text: "\"Umar\u0131m Tanr\u0131lar\u0131n kutsal krall\u0131\u011F\u0131nda
+    tekrar kar\u015F\u0131la\u015F\u0131r\u0131z. Huzur i\xE7inde yat.\""
+  choice1NextNode: {fileID: 0}
+  choice2Text: Sessiz kal
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 0}

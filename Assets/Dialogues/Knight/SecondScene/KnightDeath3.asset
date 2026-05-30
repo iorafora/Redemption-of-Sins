@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: KnightDeath3
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "Anlat\u0131c\u0131"
+  dialogueText: "*Muhaf\u0131z ba\u011F\u0131rd\u0131k\xE7a sesi giderek k\u0131s\u0131ld\u0131.
+    Panik i\xE7indeki kasabal\u0131lar korkuyla da\u011F\u0131ld\u0131, kimisi evlerin
+    arkas\u0131na sakland\u0131, kimisi ko\u015Farak g\xF6zden kayboldu.*\n*\xC7\u0131\u011Fl\u0131klar
+    yerini a\u011F\u0131r bir sessizli\u011Fe b\u0131rakt\u0131. Muhaf\u0131z\u0131n
+    bedeni son kez titredi.*"
+  choice1Text: "...Ne t\xFCr bir felaketin i\xE7indeyiz?"
+  choice1NextNode: {fileID: 0}
+  choice2Text: "T-tanr\u0131m... bizlere yard\u0131m et."
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 0}

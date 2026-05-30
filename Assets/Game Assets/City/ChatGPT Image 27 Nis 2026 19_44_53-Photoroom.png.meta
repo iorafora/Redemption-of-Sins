@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 3eac8165181ae294886bc025942eeb7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3903513362824552036
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_0
+  - first:
+      213: 3026275322690714228
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_1
+  - first:
+      213: -6329199934674622449
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_2
+  - first:
+      213: 1729587403266287341
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_3
+  - first:
+      213: -5659149662405589512
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_4
+  - first:
+      213: -4071813211521623169
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_5
+  - first:
+      213: -3800225813337373201
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_6
+  - first:
+      213: 5488028143626437750
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_7
+  - first:
+      213: -4624109090789783791
+    second: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 374
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c912ad8374fe3d9c0800000000000000
+      internalID: -3903513362824552036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 505
+        width: 358
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab2814f5d7ff920800000000000000
+      internalID: 3026275322690714228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 507
+        width: 359
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f082b45613a2a28a0800000000000000
+      internalID: -6329199934674622449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 506
+        width: 414
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de66dab549ab00810800000000000000
+      internalID: 1729587403266287341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f50b819d59a671b0800000000000000
+      internalID: -5659149662405589512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 92
+        width: 263
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bd28f15730e77c0800000000000000
+      internalID: -4071813211521623169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 92
+        width: 315
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe581c9d1c2e24bc0800000000000000
+      internalID: -3800225813337373201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 90
+        width: 334
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67443321584692c40800000000000000
+      internalID: 5488028143626437750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 0
+        width: 285
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11702d0184dd3dfb0800000000000000
+      internalID: -4624109090789783791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9711eeeb8d0ac5a46aa5d9528ff4378b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_0: -3903513362824552036
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_1: 3026275322690714228
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_2: -6329199934674622449
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_3: 1729587403266287341
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_4: -5659149662405589512
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_5: -4071813211521623169
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_6: -3800225813337373201
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_7: 5488028143626437750
+      ChatGPT Image 27 Nis 2026 19_44_53-Photoroom_8: -4624109090789783791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

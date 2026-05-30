@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: MyMan9
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "\u015E\xF6valye"
+  dialogueText: "\"Yedi Aziz'in hikayesini biliyor musun?\"\n\"Baz\u0131 insanlar,
+    Yedi Aziz'in ayak izlerini takip ederek Tanr\u0131lardan bir cevap alabileceklerini
+    d\xFC\u015F\xFCnd\xFCler.\""
+  choice1Text: 
+  choice1NextNode: {fileID: 0}
+  choice2Text: 
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 11400000, guid: 2fc98b3368552534597466d72b76f202, type: 2}

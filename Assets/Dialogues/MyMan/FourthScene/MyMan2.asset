@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: MyMan2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "Anlat\u0131c\u0131"
+  dialogueText: "\xDCzerinde kal\u0131n bir giysi bile yoktu, yine de titremen anormal
+    derecede zay\u0131ft\u0131.\nBu s\u0131rada bir adam g\xF6rd\xFCn. Uzaklarda,
+    b\xFCy\xFCk bir kayay\u0131 r\xFCzgardan saklanmak i\xE7in kullan\u0131yordu."
+  choice1Text: 
+  choice1NextNode: {fileID: 0}
+  choice2Text: 
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 11400000, guid: 2215c638bd87b394c8ef9089872e8ec0, type: 2}

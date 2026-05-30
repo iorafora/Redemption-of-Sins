@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: ddb69b00bb7c04a4c924a20fb5dbe7ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5443327295557064864
+    second: fireasset_0
+  - first:
+      213: -6119714429873302977
+    second: fireasset_1
+  - first:
+      213: 48201371287899048
+    second: fireasset_2
+  - first:
+      213: -5764902649673512986
+    second: fireasset_3
+  - first:
+      213: -9046700787025873168
+    second: fireasset_4
+  - first:
+      213: -3759345972745438655
+    second: fireasset_5
+  - first:
+      213: 3627743727534009920
+    second: fireasset_6
+  - first:
+      213: 3633076036552737903
+    second: fireasset_7
+  - first:
+      213: -190292066019613680
+    second: fireasset_8
+  - first:
+      213: -3233286193273670099
+    second: fireasset_9
+  - first:
+      213: 3032949375313462679
+    second: fireasset_10
+  - first:
+      213: -6098720360777499126
+    second: fireasset_11
+  - first:
+      213: 2571202738305897288
+    second: fireasset_12
+  - first:
+      213: 9014784685798766675
+    second: fireasset_13
+  - first:
+      213: -6121277902553969425
+    second: fireasset_14
+  - first:
+      213: -170286531167670631
+    second: fireasset_15
+  - first:
+      213: -4366799756353219103
+    second: fireasset_16
+  - first:
+      213: 4499798693898888195
+    second: fireasset_17
+  - first:
+      213: -8126704981892726831
+    second: fireasset_18
+  - first:
+      213: -1824005836071623989
+    second: fireasset_19
+  - first:
+      213: -6170619970707872268
+    second: fireasset_20
+  - first:
+      213: -8440682507666848580
+    second: fireasset_21
+  - first:
+      213: 6616145216310764243
+    second: fireasset_22
+  - first:
+      213: 5774594840198240139
+    second: fireasset_23
+  - first:
+      213: -3936354166386667315
+    second: fireasset_24
+  - first:
+      213: -5386370134122748329
+    second: fireasset_25
+  - first:
+      213: -4244252758201734964
+    second: fireasset_26
+  - first:
+      213: -7798339705947654599
+    second: fireasset_27
+  - first:
+      213: 6227421038459361291
+    second: fireasset_28
+  - first:
+      213: 1705141930418912156
+    second: fireasset_29
+  - first:
+      213: -3427371093736154458
+    second: fireasset_30
+  - first:
+      213: 1796773656228956139
+    second: fireasset_31
+  - first:
+      213: 7210851483844645340
+    second: fireasset_32
+  - first:
+      213: -922363771228607942
+    second: fireasset_33
+  - first:
+      213: -7658089742481032544
+    second: fireasset_34
+  - first:
+      213: -7168770455126788772
+    second: fireasset_35
+  - first:
+      213: 5198740173006660018
+    second: fireasset_36
+  - first:
+      213: 935756323424744703
+    second: fireasset_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireasset_0
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 426
+        width: 261
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ddd7d5559a8b40800000000000000
+      internalID: 5443327295557064864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireasset_2
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 422
+        width: 302
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab4d4d44ee3ba000800000000000000
+      internalID: 48201371287899048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireasset_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 419
+        width: 464
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a76b271ce14dbc0800000000000000
+      internalID: -3759345972745438655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireasset_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 420
+        width: 284
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ea7b75d4503adf0800000000000000
+      internalID: -170286531167670631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireasset_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 449
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5dd4502c20663c0800000000000000
+      internalID: -4366799756353219103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireasset_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52
+        width: 396
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3042c96321f727e30800000000000000
+      internalID: 4499798693898888195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireasset_26
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 58
+        width: 550
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e96a7a926915c0800000000000000
+      internalID: -4244252758201734964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireasset_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 120
+        width: 510
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4be061b697cfc00800000000000000
+      internalID: 935756323424744703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc046ac028f861742bf774bce1852c72
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fireasset_0: 5443327295557064864
+      fireasset_1: -6119714429873302977
+      fireasset_10: 3032949375313462679
+      fireasset_11: -6098720360777499126
+      fireasset_12: 2571202738305897288
+      fireasset_13: 9014784685798766675
+      fireasset_14: -6121277902553969425
+      fireasset_15: -170286531167670631
+      fireasset_16: -4366799756353219103
+      fireasset_17: 4499798693898888195
+      fireasset_18: -8126704981892726831
+      fireasset_19: -1824005836071623989
+      fireasset_2: 48201371287899048
+      fireasset_20: -6170619970707872268
+      fireasset_21: -8440682507666848580
+      fireasset_22: 6616145216310764243
+      fireasset_23: 5774594840198240139
+      fireasset_24: -3936354166386667315
+      fireasset_25: -5386370134122748329
+      fireasset_26: -4244252758201734964
+      fireasset_27: -7798339705947654599
+      fireasset_28: 6227421038459361291
+      fireasset_29: 1705141930418912156
+      fireasset_3: -5764902649673512986
+      fireasset_30: -3427371093736154458
+      fireasset_31: 1796773656228956139
+      fireasset_32: 7210851483844645340
+      fireasset_33: -922363771228607942
+      fireasset_34: -7658089742481032544
+      fireasset_35: -7168770455126788772
+      fireasset_36: 5198740173006660018
+      fireasset_37: 935756323424744703
+      fireasset_4: -9046700787025873168
+      fireasset_5: -3759345972745438655
+      fireasset_6: 3627743727534009920
+      fireasset_7: 3633076036552737903
+      fireasset_8: -190292066019613680
+      fireasset_9: -3233286193273670099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

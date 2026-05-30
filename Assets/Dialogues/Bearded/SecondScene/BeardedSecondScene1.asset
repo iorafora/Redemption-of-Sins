@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: BeardedSecondScene1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "K\xF6yl\xFC"
+  dialogueText: "Rahip, \u015F\xFCk\xFCrler olsun hayattas\u0131n. Senin sayende
+    hayatta kald\u0131m, te\u015Fekk\xFCr ederim."
+  choice1Text: "\xD6nemli de\u011Fil karde\u015Fim..."
+  choice1NextNode: {fileID: 11400000, guid: c2b84d9398513914caef27637d6900a9, type: 2}
+  choice2Text: "Sevinmek i\xE7in hen\xFCz \xE7ok erken."
+  choice2NextNode: {fileID: 11400000, guid: c2b84d9398513914caef27637d6900a9, type: 2}
+  eventCode: 
+  nextNode: {fileID: 0}

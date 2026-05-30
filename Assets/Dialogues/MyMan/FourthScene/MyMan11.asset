@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: MyMan11
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "\u015E\xF6valye"
+  dialogueText: "Z\u0131rhl\u0131 adam, bir anl\u0131\u011F\u0131na duraksad\u0131.\n\"Umar\u0131m
+    vard\u0131r... umar\u0131m.\""
+  choice1Text: 
+  choice1NextNode: {fileID: 0}
+  choice2Text: 
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 11400000, guid: 6a48ca95648eb984db800241a585e422, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: BeardedFirstSceneOlumlu
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "K\xF6yl\xFC"
+  dialogueText: "H-Hakl\u0131s\u0131n rahip... Ama umut yok. Burada kapana k\u0131s\u0131ld\u0131k!
+    Soka\u011F\u0131n ilerisini yarat\u0131klar ele ge\xE7irdi. Oraya giden hi\xE7
+    kimse geri d\xF6nmedi.."
+  choice1Text: "Korkmay\u0131n! Tanr\u0131'n\u0131n izniyle sizleri buradan \xE7\u0131karaca\u011F\u0131m."
+  choice1NextNode: {fileID: 11400000, guid: 3bfa76952d4347242b028d80bb1a2930, type: 2}
+  choice2Text: "*\u0130\xE7inden* Tanr\u0131m bana g\xFC\xE7 ver."
+  choice2NextNode: {fileID: 11400000, guid: 3bfa76952d4347242b028d80bb1a2930, type: 2}
+  eventCode: 
+  nextNode: {fileID: 0}

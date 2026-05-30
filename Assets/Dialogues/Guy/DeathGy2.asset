@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79233a09bbb20d84e82552764b3672a9, type: 3}
+  m_Name: DeathGy2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  speakerName: "Anlat\u0131c\u0131"
+  dialogueText: "Sonra ileriden bir ses geldi. Metal s\xFCrt\xFCnmesi\u2026 bo\u011Fuk
+    bir inilti\u2026 Elin istemsizce silah\u0131na gitti. Ama sonra onu g\xF6rd\xFCn:
+    Yerde \xE7\xF6km\xFC\u015F bir adam\u2026 z\u0131rh\u0131 par\xE7alanm\u0131\u015F\u2026
+    nefesi d\xFCzensiz. "
+  choice1Text: 
+  choice1NextNode: {fileID: 0}
+  choice2Text: 
+  choice2NextNode: {fileID: 0}
+  eventCode: 
+  nextNode: {fileID: 11400000, guid: ef216d1bc97976a4bba73ae84553e43a, type: 2}
